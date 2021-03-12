@@ -1,6 +1,6 @@
 # Hello
 
-Welcome to Twitter clone repo, this repository is made to help us figure out the basis of your skills. Nothing fancy, just a bit of pure old JavaScript.
+Welcome to Twitter clone repo, this repository is made to help us figure out the basis of your skills. Nothing fancy, just a bit of pure old JavaScript with React attached to it.
 
 ## How to start
 
