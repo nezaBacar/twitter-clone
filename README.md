@@ -5,7 +5,7 @@ Welcome to Twitter clone repo, this repository is made to help us figure out the
 ## How to start
 
 Start by cloning the project. 
-Then fork it and push it to your repository.
+Then fork it and push it to your personal Github.
 You are going to need to install dependencies by running the command "yarn".
 You can start the project by running "yarn start".
 
